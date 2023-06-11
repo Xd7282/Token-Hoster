@@ -1,9 +1,5 @@
-# Discord-Multiple-Token-Hoster
+# Discord-Token-Hoster
+A Discord Token Hoster Made To Sell
 
-**Created By KaramveerPlayZ#1337**
-
-# Hosting
+# How To Use?
 Add Your Tokens in tokens.txt File And run using python3 main.py
-
-# skids
-ik you will skid it that's why you're gay
